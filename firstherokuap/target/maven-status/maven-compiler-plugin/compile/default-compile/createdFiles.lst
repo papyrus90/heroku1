@@ -1,0 +1,4 @@
+ro\sci\ServletInitializer.class
+ro\sci\SimpleLogInApplication.class
+ro\sci\MvcConfig.class
+ro\sci\WebSecurityConfig.class
